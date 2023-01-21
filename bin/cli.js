@@ -12,7 +12,7 @@ const runCommand = command => {
     return true
 }
 
-const repoName = process.env.argv[2]
+const repoName = process.argv[2]
 const gitCheckoutCommand = `git clone --depth 1 https://github.com/darkterminal/express-api-starter.git ${repoName}`
 const installDepsCommand = `cd ${repoName} && npm install`
 
