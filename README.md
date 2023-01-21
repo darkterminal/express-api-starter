@@ -1,4 +1,6 @@
-# Express API Starter
+# Express API Starter using ES6
+
+This repository is forked from [express-api-starter]([w3cj/express-api-starter](https://github.com/w3cj/express-api-starter))
 
 Includes API Server utilities:
 
