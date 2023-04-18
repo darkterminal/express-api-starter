@@ -22,6 +22,11 @@ Development utilities:
 * [supertest](https://www.npmjs.com/package/supertest)
   * HTTP assertions made easy via superagent.
 
+## Usage
+```
+npx @darkterminal/eas-es6 your-app-name
+```
+
 ## Setup
 
 ```
